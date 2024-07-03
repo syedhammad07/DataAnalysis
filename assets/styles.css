@@ -1,0 +1,8 @@
+/* styles.css */
+.graph-container {
+  border: 2px solid #d3d3d3; /* Light gray border */
+  border-radius: 8px; /* Rounded corners */
+  padding: 20px; /* Padding around the graph */
+  margin-bottom: 20px; /* Space between graphs */
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow for better separation */
+}
